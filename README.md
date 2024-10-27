@@ -15,3 +15,7 @@ Ket Activities
 •	Find tasks quickly by filtering or searching by keywords, due dates, or categories.
 Technologies Used
 •	HTML, CSS, JavaScript for a responsive interface.
+
+
+![Screenshot_27-10-2024_122624_127 0 0 1](https://github.com/user-attachments/assets/a5ec081f-02bc-4c6b-b5cc-092094666b52)
+
